@@ -20,3 +20,9 @@ nav{
 nav a {
  margin-right: 16px;
 }
+
+/* styling added to active class on a anchor element within the nav tag */
+/* nav a.active {
+  text-decoration: none; /* Removes underline */
+  /* font-weight: bold;
+} */
