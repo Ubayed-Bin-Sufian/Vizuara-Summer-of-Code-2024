@@ -18,7 +18,7 @@ export const Navbar = () => {
                 About
             </NavLink>
             <NavLink style={navLinkStyles} to='/products'>
-                products
+                Products
             </NavLink>
         </nav>
     )
