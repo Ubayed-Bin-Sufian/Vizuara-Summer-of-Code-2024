@@ -1,8 +1,7 @@
-function Heading () {
-    let title = 'This is some heading text';
+function Heading() {
     return (
-        <h1>{title}</h1>
-    );
+        <h1>This is an h1 heading</h1>
+    )
 }
-
-export default Heading
+    
+export default Heading;
